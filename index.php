@@ -99,7 +99,7 @@
 
     echo "<h3>Answer Will Appear Here : ";
     echo $instancePrice / $totalWorkingHours . " MMK </h3>";
-
+    // Database မပါသေးသော Raw  
 ?>
 
 </body>
